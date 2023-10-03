@@ -1,0 +1,7 @@
+/* Estilos para a classe "midia" */
+.midia {
+    text-align: center; /* Centraliza o texto horizontalmente */
+    font-size: 40px;    /* Define o tamanho da fonte em pixels */
+    font-family: Arial, sans-serif; /* Escolhe uma família de fontes */
+    /* Outras propriedades de estilo, se desejado */
+}
